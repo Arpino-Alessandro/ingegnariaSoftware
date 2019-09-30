@@ -1,0 +1,11 @@
+Problem statement
+1.	Congelamento account inattivi:
+    a.	Un utente non accede al suo account per 6 o più mesi, quindi il suo account verrà congelato e tutte le funzioni saranno bloccate.
+    b.	L’utente riceve un numero elevato di segnalazioni in un breve periodo di tempo, quindi l’account verrà temporaneamente congelato per l’esecuzione di controlli.
+2.	Inserimento di informazioni errate da parte di un utente per un articolo in vendita:
+    a.	L’immagine o il nome del prodotto non corrispondono alla descrizione dello stesso.
+3.	Gestione utenze online:
+    a.	Riuscire a mantenere un server sempre in condizioni con una capienza medio alta di utenti.
+
+Requisiti funzionali e non funzionali
+4.	
